@@ -91,7 +91,7 @@ if __name__ == "__main__":
     # User interaction loop
     while True:
         try:
-            print("\nMenu:")
+            print("Menu:")
             print("1. Insert at the start")
             print("2. Insert at a specific position")
             print("3. Insert at the end")
